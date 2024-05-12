@@ -1,6 +1,9 @@
 
 
 #Fitness App
+
+
+
 This is a fitness app that provides exercise details and instructions for performing exercises targeting different muscle groups like chest, arms, and abs.
 
 Features
